@@ -6,9 +6,7 @@
 | № | Тема                                                                            | Дата | Материалы |
 |---|---------------------------------------------------------------------------------|------|-----------|
 | 1 | Что такое коллокации? (Любовь)                                                                        | 13 октября | [Презентация](https://github.com/lyubovchubarova/collocations/blob/main/Presentations/1.%20%D0%9A%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D0%B8.pptx)    |
-| 2 | Лексические функции + (Not) a deep dive into sketch engine (Любовь)                                                                    | 14 октября | [SketchEngine](https://www.sketchengine.eu/)
-[Словарь глагольной сочетаемости имен](http://dict.ruslang.ru/abstr_noun.php)
-    |
+| 2 | Лексические функции + (Not) a deep dive into sketch engine (Любовь)                                                                    | 14 октября | [SketchEngine](https://www.sketchengine.eu/)  [Глагольная сочетаемость имён](http://dict.ruslang.ru/abstr_noun.php)  [Сочетания со значением высокой степени](http://dict.ruslang.ru/magn.php)|
 | 3 | Совместная встречаемость и частотность. (Любовь)                                                                          | 14 октября |     |
 | 4 |  Общий план работы + что может (Национальный) корпус (Дарья)                                                                        | 15 октября |     |
 | 5 | Проектная работа: получение корпуса                                                                             | 15 октября |     |
