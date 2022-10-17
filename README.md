@@ -21,7 +21,7 @@
 | 3 | Совместная встречаемость и частотность. (Любовь)                                                                          | 14 октября | [Презентация](https://github.com/lyubovchubarova/collocations/blob/main/Presentations/2.%20%D0%A1%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B2%D1%81%D1%82%D1%80%D0%B5%D1%87%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C%20%D0%B8%20%D1%87%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.pptx)    |
 | 4 |  Общий план работы + что может (Национальный) корпус (Дарья)                                                                        | 15 октября |     |
 | 5 | Проектная работа: получение корпуса                                                                             | 15 октября | [Colab-конспект: Introduction to Python](https://colab.research.google.com/drive/14O5oBbM5MUNAoBpnanpTFRaoOs8vgnMw?usp=sharing)    |
-| 6 | Проектная работа: получение корпуса                                                                             | 17 октября |     |
+| 6 | Проектная работа: получение корпуса                                                                             | 17 октября |  [Colab-база для работы](https://colab.research.google.com/drive/1kUuROM2s_RmUaYUhBhM9f0S83s5V0Rft#scrollTo=c-YhiMCjkwQ)   |
 | 7 | Проектная работа: извлечение сочетаний (Любовь)                                                                           | 17 октября |     |
 | 8 | Меры ассоциации: эмпирические (Дарья)                                                                         | 18 октября |     |
 | 9 | Проектная работа                                                                           | 18 октября |     |
