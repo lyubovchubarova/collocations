@@ -1,6 +1,6 @@
 # Проект по сравнению метрик извлечения коллокаций
 
-## [Ссылка на папку с данными]()
+## [Ссылка на папку с данными](https://drive.google.com/drive/folders/1uE5bhxzQpmNj8lFodAAtI1ZOdTDYwqhc?usp=sharing)
 
 ## План работы
 
@@ -25,7 +25,7 @@
 | 5 | Проектная работа: получение корпуса                                                                             | 15 октября | [Colab-конспект: Introduction to Python](https://colab.research.google.com/drive/14O5oBbM5MUNAoBpnanpTFRaoOs8vgnMw?usp=sharing)    |
 | 6 | Проектная работа: получение корпуса                                                                             | 17 октября |  [Colab-база для работы](https://colab.research.google.com/drive/1kUuROM2s_RmUaYUhBhM9f0S83s5V0Rft#scrollTo=c-YhiMCjkwQ)   |
 | 7 | Проектная работа: извлечение корпуса (Любовь)   + Меры ассоциации (эмпирические) Дарья                                                                        | 17 октября | [Конспект по метрикам](https://docs.google.com/document/d/1xpwSM2ppOa0MKlxlLhQ8xx82dcSCLdzBB0I-_6EDafk)    |
-| 8 | Проектная работа: подсчет встречаемости                                                                       | 18 октября |     |
+| 8 | Проектная работа: подсчет встречаемости                                                                       | 18 октября |  [Colab-тетрадка для работы](https://colab.research.google.com/drive/1PH-0O8CKCe1dZKOT8XLHetCZ__lvokTX?usp=sharing)   |
 | 9 | Проектная работа: реализация эмпирических метрик                                                                           | 18 октября |     |
 | 10 | Меры ассоциации: статистические  (Дарья) + проектная работа                                                                        | 19 октября |     |
 | 11 | Различие метрик (Дарья): Проектная работа                                                                             | 19 октября |     |
