@@ -34,7 +34,7 @@
 | 12 | Проектная работа: обсуждение спорных случаев, подсчет метрик                                                                          | 20 октября |     |
 | 13 | Excel: визуализация + проектная работа                                                                             | 20 октября |     |
 | 14 | Вывод метрик + статистические метрики?                                                                           | 22 октября |     |
-| 15 | Проектная работа: разметка | 22 октября | Excel: [ИНДЕКС и ПОИСКПОЗ] (https://office-guru.ru/excel/funkcii-indeks-i-poiskpoz-v-excel-luchshaja-alternativa-dlja-vpr-182.html) ; [ВПР](https://skillbox.ru/media/management/kak-sdelat-vpr-v-excel-poshagovaya-instruktsiya-so-skrinshotami/)
+| 15 | Проектная работа: разметка | 22 октября | Excel: [ИНДЕКС и ПОИСКПОЗ](https://office-guru.ru/excel/funkcii-indeks-i-poiskpoz-v-excel-luchshaja-alternativa-dlja-vpr-182.html) ; [ВПР](https://skillbox.ru/media/management/kak-sdelat-vpr-v-excel-poshagovaya-instruktsiya-so-skrinshotami/)
 | 16 | Проектная работа: визуализация                                                                            | 23 октября |     |
 | 17 | Байки из склепа: где в индустрии используются коллокации (Любовь + Дарья)| 23 октября |  |     |
 
